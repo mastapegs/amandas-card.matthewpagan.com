@@ -19,6 +19,18 @@ const App = (): JSX.Element => {
         </p>
         <p>{`I love you so much <3`}</p>
       </div>
+      <div className="card-container">
+        <h2>From Kenzie</h2>
+        <p>
+          I love you. You are the best mommy ever. I love playing with you. I
+          love to color with you.
+        </p>
+        <p>
+          I like to play with Nyah with you. My favorite activity is going on a
+          walk with you.
+        </p>
+        <p>{`Happy Birthday Mommy! <3`}</p>
+      </div>
     </div>
   );
 };
