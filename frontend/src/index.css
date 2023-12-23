@@ -79,3 +79,7 @@ button:focus-visible {
   background-color: hsl(0, 0%, 85%);
   color: black;
 }
+
+.card-container > p {
+  font-size: 1.5em;
+}
