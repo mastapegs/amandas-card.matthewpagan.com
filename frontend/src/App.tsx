@@ -6,9 +6,13 @@ const App = (): JSX.Element => {
         <p>{`I hope you enjoy this special day honey <3`}</p>
         <p>
           There are so many positive effects you have on our family. You plan
-          activities for our kids, even though they are CRAZY every single time.
-          You make time to get presents for our kids' bus drivers and teachers,
-          you invite over their friends, even if its difficult.
+          activities for our kids, even though they are{" "}
+          <strong>
+            <em>CRAZY</em>
+          </strong>{" "}
+          every single time. You make time to get presents for our kids' bus
+          drivers and teachers, you invite over their friends, even if its
+          difficult.
         </p>
         <p>You are selfless.</p>
         <p>
