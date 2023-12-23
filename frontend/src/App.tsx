@@ -1,6 +1,6 @@
 const App = (): JSX.Element => {
   return (
-    <>
+    <div className="card-container">
       <h1>Happy Birthday Amanda!!!</h1>
       <p>{`I hope you enjoy this special day honey <3`}</p>
       <p>
@@ -17,7 +17,7 @@ const App = (): JSX.Element => {
         year to shine.
       </p>
       <p>{`I love you so much <3`}</p>
-    </>
+    </div>
   );
 };
 
