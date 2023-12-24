@@ -1,6 +1,6 @@
 const App = (): JSX.Element => {
   return (
-    <div className="card-page">
+    <>
       <div className="card-container">
         <h1>Happy Birthday Amanda!!!</h1>
         <p>{`I hope you enjoy this special day honey <3`}</p>
@@ -36,6 +36,15 @@ const App = (): JSX.Element => {
         <p>{`Happy Birthday Mommy! <3`}</p>
       </div>
       <div className="card-container">
+        <h2>From Noah</h2>
+        <p>
+          I love you mommy. You are the best mom ever. You bring us places and
+          you do a lot of stuff for us and you do a lot of good things for us.
+        </p>
+        <p>I love you mommy!</p>
+        <p>Happy birthday ❤️</p>
+      </div>
+      <div className="card-container">
         <h2>From Jakeob</h2>
         <p>{`Happy birthday Amanda!`}</p>
         <p>
@@ -47,7 +56,7 @@ const App = (): JSX.Element => {
           <p>I love you, and again, happy birthday!</p>
         </p>
       </div>
-    </div>
+    </>
   );
 };
 
