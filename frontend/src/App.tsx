@@ -36,7 +36,7 @@ const App = (): JSX.Element => {
         <p>{`Happy Birthday Mommy! <3`}</p>
       </div>
       <div className="card-container">
-        <h2>From Noah</p>
+        <h2>From Noah</h2>
         <p>I love you mommy. You are the best mom ever. You bring us places and you do a lot of stuff for us and you do a lot of good things for us.</p>
         <p>I love you mommy!</p>
         <p>Happy birthday ❤️</p>
