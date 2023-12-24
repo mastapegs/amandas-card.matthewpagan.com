@@ -56,6 +56,37 @@ const App = (): JSX.Element => {
           <p>I love you, and again, happy birthday!</p>
         </p>
       </div>
+      <div className="card-container">
+        <h2>From Diane</h2>
+        <p>Amanda,</p>
+        <p>I am so proud of you! Happy birthday Love!</p>
+      </div>
+      <div className="card-container">
+        <h2>From Sari</h2>
+        <p>
+          Happy Birthday to my wonderful, strong Sister, Mother and the woman
+          you become and I'm so proud of you.
+        </p>
+        <p>Love Sushii.</p>
+      </div>
+      <div className="card-container">
+        <h2>From Lisa</h2>
+        <p>
+          To my beautiful daughter... inside and out. I couldn't be more proud
+          of the amazing mom and person you are. Wishing you the happiest
+          birthday filled with so much love and pride!
+        </p>
+        <p>Love, mom XO 🎉🎁💜</p>
+      </div>
+      <div className="card-container">
+        <h2>From Jackie</h2>
+        <p>
+          Amanda, we wish you a happy birthday and a great holiday Christmas
+          day... You're a great and wonderful mom and wife ❤️ we feel so blessed
+          that you are Matt wife and mother of all yours kids 😊 happy birthday
+          🎂 🥳 jackie and Jose. We love you 😍 ❤️
+        </p>
+      </div>
     </>
   );
 };
