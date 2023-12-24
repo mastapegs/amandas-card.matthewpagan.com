@@ -3,7 +3,11 @@ const App = (): JSX.Element => {
     <>
       <div className="card-container">
         <h1>Happy Birthday Amanda!!!</h1>
-        <p>{`I hope you enjoy this special day honey <3`}</p>
+        <p>{`Enjoy your virtual birthday card ❤️`}</p>
+      </div>
+      <div className="card-container">
+        <h2>From Matt</h2>
+        <p>{`I hope you enjoy this special day honey ❤️`}</p>
         <p>
           There are so many positive effects you have on our family. You plan
           activities for our kids, even though they are{" "}
@@ -21,7 +25,7 @@ const App = (): JSX.Element => {
           Benny, and I. Happy 31st Birthday, and I hope this coming year, is our
           year to shine.
         </p>
-        <p>{`I love you so much <3`}</p>
+        <p>{`I love you so much ❤️`}</p>
       </div>
       <div className="card-container">
         <h2>From Kenzie</h2>
@@ -33,7 +37,7 @@ const App = (): JSX.Element => {
           I like to play with Nyah with you. My favorite activity is going on a
           walk with you.
         </p>
-        <p>{`Happy Birthday Mommy! <3`}</p>
+        <p>{`Happy Birthday Mommy! ❤️`}</p>
       </div>
       <div className="card-container">
         <h2>From Noah</h2>
