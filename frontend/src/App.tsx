@@ -35,6 +35,18 @@ const App = (): JSX.Element => {
         </p>
         <p>{`Happy Birthday Mommy! <3`}</p>
       </div>
+      <div className="card-container">
+        <h2>From Jakeob</h2>
+        <p>{`Happy birthday Amanda!`}</p>
+        <p>
+          I will always appreciate how much you make me laugh and smile and I'm
+          so proud that I have a sister that I can look up to who works so hard
+          every day. On top of all that, you've brought some of the most
+          important people in my life into the world and I can't wait to see how
+          all of our lives grow together, for this year and those to come.
+          <p>I love you, and again, happy birthday!</p>
+        </p>
+      </div>
     </div>
   );
 };
